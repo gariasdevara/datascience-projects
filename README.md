@@ -1,2 +1,2 @@
 # datascience-projects
-My projects as I learn Data Science
+My projects as I learn about Data Science
